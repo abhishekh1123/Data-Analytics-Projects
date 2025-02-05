@@ -1,0 +1,23 @@
+
+```
+pandas
+numpy
+matplotlib
+seaborn
+librosa
+pydub
+plotly
+scikit-learn
+tensorflow
+spotipy
+python-dotenv
+requests
+```
+
+You can copy this directly into your `requirements.txt` file, and then install the dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+
+Let me know if you need any more assistance!
